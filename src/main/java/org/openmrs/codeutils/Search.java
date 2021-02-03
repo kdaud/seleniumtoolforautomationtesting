@@ -9,4 +9,8 @@ public class Search {
 		}
 		return null;
 	}
+	
+	public void searchStudentGrade() {
+		private static final String ID=ID.id
+	}
 }
